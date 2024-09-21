@@ -14,5 +14,6 @@ ASSIGNMENT_5
 https://github.com/2303A52269/STML/blob/main/STML_ASS(5).ipynb
 
 ASSIGNMENT_6
+https://github.com/2303A52269/STML/blob/main/STML_ASS(6).ipynb
 
 ASSIGNMENT_7
